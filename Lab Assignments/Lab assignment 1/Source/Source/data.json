@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "description": "physics",
+            "level": "ug",
+            "spring": "available",
+            "summer": "NA",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "vivek",
+            "prerequisites": "html",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"False",
+            "duration":"16 weeks"
+        },
+        {
+            "description": "iothings",
+            "level": "ug",
+            "spring": "available",
+            "summer": "NA",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "john",
+            "prerequisites": "NA",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"True",
+            "duration":"16 weeks"
+        },
+        {
+            "description": "security",
+            "level": "ug",
+            "spring": "available",
+            "summer": "NA",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "nithin",
+            "prerequisites": "NA",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"True",
+            "duration":"16 weeks"
+        },{
+            "description": "networking",
+            "level": "ug",
+            "spring": "available",
+            "summer": "NA",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "alaap",
+            "prerequisites": "NA",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"True",
+            "duration":"16 weeks"
+        }
+
+    ]
+}
